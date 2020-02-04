@@ -107,13 +107,13 @@
 
 #### 1. 养成勤洗手的习惯
 
-![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture1.png?raw=true)
+![](Picture1.png)
 
 请遵循下图所示七步洗手法，用流动的清水和肥皂/洗手液，每日洗手10次以上，每次持续20秒以上。
 
 回家后、吃饭前、上厕所后，一定保证依此方式洗手。
 
-![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture2.png?raw=true)
+![](Picture2.png)
 
 
 **毛巾的处理：**
@@ -145,7 +145,7 @@ N95口罩，KN95口罩，一次性外科口罩具有类似的防护效力。
 
 （N95/KN95/N90/KN90口罩佩戴方式）： [https://haokan.baidu.com/v?pd=wisenatural&vid=824319319054338088](https://haokan.baidu.com/v?pd=wisenatural&vid=824319319054338088) 
 
-或参考以下示意图（外科口罩与医用护理口罩佩戴方式）：![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture5.png?raw=true)
+或参考以下示意图（外科口罩与医用护理口罩佩戴方式）：![](Picture5.png)
 
 * 对于以上的外科口罩，请注意区分上下与内外。请注意：有金属软条的是上方，用于将口罩固定在鼻梁处，贴紧面部。从口罩皱褶来看内外，皱褶往下的就是外面，皱褶往上的就是里面。![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture6.png?raw=true)
 * 若有条件，每次出门都换一个新口罩，出门最好不超过4小时（N95口罩佩戴时间过长会导致憋气，外科口罩佩戴时间长，也容易被呼气沾湿，失去效用）。出门期间请勿取下口罩，进家门前请将口罩取下丢弃。（若口罩紧缺，请参考后面的“防护物资紧缺情况的应对策略”章节）
@@ -250,7 +250,7 @@ N95口罩，KN95口罩，一次性外科口罩具有类似的防护效力。
 
 具体做法请参考下图：
 
-![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture3.png?raw=true)
+![](Picture3.png)
 
 
 ### 2. 症状严重者，尽量送医院隔离
@@ -333,7 +333,7 @@ N95口罩，KN95口罩，一次性外科口罩具有类似的防护效力。
 
 请用微信扫描，进入小程序，向医生咨询。湖北用户享受免费服务。
 
-![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture4.png?raw=true)
+![](Picture4.png)
 
 ### 3. 中国医师协会的“微医在线咨询”
 
@@ -529,7 +529,7 @@ https://promo.idajiabang.com/topic/pneumonia?cs=share&from=singlemessage&isappin
 
 其余可用服务清单：
 
-![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture8.jpg?raw=true)
+![](Picture8.jpg)
 
 
 ## 十三、常见问答汇总（随时更新）
