@@ -559,7 +559,7 @@ https://promo.idajiabang.com/topic/pneumonia?cs=share&from=singlemessage&isappin
 
 * 若消毒剂很有限，请先确保重点位置的消毒。消毒重点在于门把手、水龙头开关、冲厕按钮等手部经常触摸的地方，尤其是家人共同触摸的地方。
 
-
+ 
 ## 十一、心理应对
 
 在已有条件下，如果已做出了最大的努力，请不要恐慌。恐慌无助于治疗疾病，反而徒增身心负担，不利于抵抗病毒。
