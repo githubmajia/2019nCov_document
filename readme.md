@@ -975,6 +975,8 @@ N/R/P后面加上数字表示过滤效率，是美国的标准编号。美国标
 
 * 若身边没有其他人帮助打电话，可以使用音书的电话助理，详情见：https://mp.weixin.qq.com/s/bGt1gWbN3_7JofR0xohH-A
 
+* 若要在家学习，可以使用音书在线无障碍教学，详情见：https://mp.weixin.qq.com/s/Q7DoB5mhUL4cfHgaA41AKw
+
 
 ### 综合注意事项
 
